@@ -21,3 +21,4 @@ C:\Users\lordd\Desktop\APBD\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.dll
 C:\Users\lordd\Desktop\APBD\zadanie\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
 C:\Users\lordd\Desktop\APBD\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
 C:\Users\lordd\Desktop\APBD\zadanie\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll
+C:\Users\lordd\Desktop\APBD\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.sourcelink.json
